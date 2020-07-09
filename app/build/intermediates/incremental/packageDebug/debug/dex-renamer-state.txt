@@ -1,0 +1,4 @@
+#Wed Jul 08 15:42:12 SGT 2020
+base.0=C\:\\Users\\USER\\Desktop\\Year 2 Sem 1\\Mobile Application Development\\DroidCafeChallenge\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
